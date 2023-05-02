@@ -135,3 +135,6 @@ dmypy.json
 config.yml
 dnc/
 packets/
+run.bat
+server.bat
+clients.bat
